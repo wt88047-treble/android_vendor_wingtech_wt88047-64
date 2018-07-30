@@ -42,7 +42,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/wt88047/proprietary/vendor/lib/libstagefright_soft_flacdec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libstagefright_soft_flacdec.so \
     vendor/xiaomi/wt88047/proprietary/vendor/lib64/libstagefright_soft_flacdec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libstagefright_soft_flacdec.so \
     vendor/xiaomi/wt88047/proprietary/vendor/bin/mm-qcamera-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/mm-qcamera-daemon \
-    vendor/xiaomi/wt88047/proprietary/vendor/bin/rfs_access:$(TARGET_COPY_OUT_VENDOR)/bin/rfs_access \
     vendor/xiaomi/wt88047/proprietary/vendor/lib/libdrmdecrypt.so:$(TARGET_COPY_OUT_VENDOR)/lib/libdrmdecrypt.so \
     vendor/xiaomi/wt88047/proprietary/vendor/bin/adsprpcd:$(TARGET_COPY_OUT_VENDOR)/bin/adsprpcd \
     vendor/xiaomi/wt88047/proprietary/vendor/lib/libNimsWrap.so:$(TARGET_COPY_OUT_VENDOR)/lib/libNimsWrap.so \
